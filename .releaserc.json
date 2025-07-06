@@ -1,7 +1,13 @@
 {
   "branches": [
-    { "name": "develop", "prerelease": "alpha" },
-    { "name": "qa", "prerelease": "rc" },
+    {
+      "name": "develop",
+      "prerelease": "alpha"
+    },
+    {
+      "name": "qa",
+      "prerelease": "rc"
+    },
     "master"
   ],
   "plugins": [
