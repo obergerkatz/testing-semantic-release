@@ -1,3 +1,18 @@
+# [1.4.0](https://github.com/obergerkatz/testing-semantic-release/compare/v1.3.0...v1.4.0) (2025-07-06)
+
+
+### Bug Fixes
+
+* **ci:** fetch all tags ([f143029](https://github.com/obergerkatz/testing-semantic-release/commit/f143029b041a5d89665e8df4d521cbe57ce5fe23))
+* **ci:** fetch all tags from master ([81446be](https://github.com/obergerkatz/testing-semantic-release/commit/81446befd6a966afb583e279cbf76d7892f11adf))
+* **ci:** fix ci ([ad8bd39](https://github.com/obergerkatz/testing-semantic-release/commit/ad8bd397584917621c6be771727d2d97d7550841))
+
+
+### Features
+
+* **index:** duplicate index num 3 ([01cf14e](https://github.com/obergerkatz/testing-semantic-release/commit/01cf14e58cc29baa2b92716f8069f07dc72d381b))
+* **releaseserc:** do not prerelease develop ([498f7d4](https://github.com/obergerkatz/testing-semantic-release/commit/498f7d4424600a04b4daf13f058d13869666d668))
+
 # [1.3.0](https://github.com/obergerkatz/testing-semantic-release/compare/v1.2.3...v1.3.0) (2025-07-06)
 
 
