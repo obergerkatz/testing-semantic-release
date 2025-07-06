@@ -1,3 +1,10 @@
+# [1.3.0-alpha.7](https://github.com/obergerkatz/testing-semantic-release/compare/v1.3.0-alpha.6...v1.3.0-alpha.7) (2025-07-06)
+
+
+### Bug Fixes
+
+* **ci:** fix ci ([afedb9c](https://github.com/obergerkatz/testing-semantic-release/commit/afedb9caadbefaf2dd527e473f4eb7e66c1687c7))
+
 # [1.3.0-alpha.6](https://github.com/obergerkatz/testing-semantic-release/compare/v1.3.0-alpha.5...v1.3.0-alpha.6) (2025-07-06)
 
 
