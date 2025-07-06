@@ -1,0 +1,25 @@
+{
+  "name": "your-ts-service",
+  "version": "0.0.0",
+  "description": "A test TypeScript service with semantic-release",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  },
+  "release": {
+    "branches": [
+      {
+        "name": "develop",
+        "prerelease": "alpha"
+      },
+      {
+        "name": "qa",
+        "prerelease": "rc"
+      },
+      "master"
+    ]
+  }
+}
