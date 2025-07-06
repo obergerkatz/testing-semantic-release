@@ -11,14 +11,20 @@ jobs:
   release:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout full Git history
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Fetch tags from master
+        run: git fetch origin refs/tags/*:refs/tags/* refs/heads/master:refs/remotes/origin/master
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: 20
 
-      - name: Install deps
+      - name: Install dependencies
         run: npm ci
 
       - name: Run Semantic Release
