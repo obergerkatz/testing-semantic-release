@@ -1,3 +1,10 @@
+# [1.3.0-alpha.3](https://github.com/obergerkatz/testing-semantic-release/compare/v1.3.0-alpha.2...v1.3.0-alpha.3) (2025-07-06)
+
+
+### Features
+
+* **index:** duplicate index num 3 ([f19c81a](https://github.com/obergerkatz/testing-semantic-release/commit/f19c81acaf7524f6c123a207c27feb4a9c911ba3))
+
 # [1.3.0-alpha.2](https://github.com/obergerkatz/testing-semantic-release/compare/v1.3.0-alpha.1...v1.3.0-alpha.2) (2025-07-06)
 
 
