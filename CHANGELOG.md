@@ -1,3 +1,10 @@
+# [1.3.0-alpha.6](https://github.com/obergerkatz/testing-semantic-release/compare/v1.3.0-alpha.5...v1.3.0-alpha.6) (2025-07-06)
+
+
+### Features
+
+* **releaseserc:** do not prerelease develop ([b154707](https://github.com/obergerkatz/testing-semantic-release/commit/b154707ff91a104b6d5d119542196b174b50b3a5))
+
 # [1.3.0-alpha.5](https://github.com/obergerkatz/testing-semantic-release/compare/v1.3.0-alpha.4...v1.3.0-alpha.5) (2025-07-06)
 
 
