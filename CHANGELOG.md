@@ -1,3 +1,10 @@
+# [1.3.0-alpha.4](https://github.com/obergerkatz/testing-semantic-release/compare/v1.3.0-alpha.3...v1.3.0-alpha.4) (2025-07-06)
+
+
+### Bug Fixes
+
+* **ci:** fetch all tags from master ([1d970eb](https://github.com/obergerkatz/testing-semantic-release/commit/1d970eb523243b0fc068b7eb9007f5ce8faf042b))
+
 # [1.3.0-alpha.3](https://github.com/obergerkatz/testing-semantic-release/compare/v1.3.0-alpha.2...v1.3.0-alpha.3) (2025-07-06)
 
 
