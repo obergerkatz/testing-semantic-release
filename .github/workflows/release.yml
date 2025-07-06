@@ -16,8 +16,8 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Fetch tags from master
-        run: git fetch origin refs/tags/*:refs/tags/* refs/heads/master:refs/remotes/origin/master
+      - name: Fetch all tags
+        run: git fetch --tags --force
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
