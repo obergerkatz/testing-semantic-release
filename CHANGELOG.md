@@ -1,3 +1,11 @@
+# [1.5.0-rc.2](https://github.com/obergerkatz/testing-semantic-release/compare/v1.5.0-rc.1...v1.5.0-rc.2) (2025-07-06)
+
+
+### Features
+
+* **index:** recreate index_3.ts ([d4893b6](https://github.com/obergerkatz/testing-semantic-release/commit/d4893b6b134f126dd350ac36f4aa2f3a63ddb3d2))
+* **index:** remove index_3.ts and create index_11.ts ([831f76a](https://github.com/obergerkatz/testing-semantic-release/commit/831f76ad62e22b8635b1188826ecb1aedc40fc0e))
+
 # [1.5.0-rc.1](https://github.com/obergerkatz/testing-semantic-release/compare/v1.4.0...v1.5.0-rc.1) (2025-07-06)
 
 
