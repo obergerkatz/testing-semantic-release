@@ -8,23 +8,17 @@ on:
 jobs:
   release:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout full Git history
+      - name: Checkout code
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
-        with:
-          node-version: 20
-          cache: 'npm'
 
       - name: Install dependencies
         run: npm ci
 
-      - name: Run Semantic Release
+      - name: Semantic Release
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
         run: npx semantic-release
