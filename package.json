@@ -1,6 +1,6 @@
 {
   "name": "your-ts-service",
-  "version": "0.0.0",
+  "version": "1.6.2",
   "description": "A test TypeScript service with semantic-release",
   "main": "index.js",
   "scripts": {
