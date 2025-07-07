@@ -15,23 +15,5 @@
     "@semantic-release/release-notes-generator": "^14.0.3",
     "semantic-release": "^24.2.6",
     "typescript": "^5.3.3"
-  },
-  "release": {
-    "branches": [
-      {
-        "name": "develop",
-        "prerelease": "alpha"
-      },
-      {
-        "name": "qa",
-        "prerelease": "rc"
-      },
-      "master"
-    ],
-    "plugins": [
-      "@semantic-release/commit-analyzer",
-      "@semantic-release/release-notes-generator",
-      "@semantic-release/github"
-    ]
   }
 }
